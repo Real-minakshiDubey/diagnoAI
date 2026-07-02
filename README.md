@@ -10,7 +10,7 @@
 
 **An AI-powered clinical screening tool that predicts Breast Cancer, Diabetes, and Heart Disease using Machine Learning**
 
-[🚀 Live Demo](https://diagnoai-asnd5d6rqcnytnpdv6yjsb.streamlit.app/) • [📊 Datasets](#datasets) • [🛠️ Tech Stack](#tech-stack) • [📁 Project Structure](#project-structure)
+[🚀 Live Demo](https://diagnoai-asnd5d6rqcnytnpdv6yjsb.streamlit.app/) • [📊 Datasets](#-datasets) • [🛠️ Tech Stack](#-tech-stack) • [📁 Project Structure](#project-structure)
 
 </div>
 

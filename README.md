@@ -23,7 +23,7 @@ A machine learning web app that predicts
 | Heart Disease | Random Forest | 86.96% |
 
 ## 🚀 Live Demo
-[Click Here](YOUR_STREAMLIT_URL)
+https://diagnoai-asnd5d6rqcnytnpdv6yjsb.streamlit.app/
 
 ## 📁 Project Structure
 diagnoAI/
@@ -33,4 +33,4 @@ diagnoAI/
 └── requirements.txt
 ## 👩‍💻 Author
 Minakshi Dubey
-AIML BTech — 6th Semester
+BTech(AIML)
